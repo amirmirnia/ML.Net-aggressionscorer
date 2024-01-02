@@ -1,0 +1,14 @@
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\bin\Debug\net6.0\AggressionScorerModel.deps.json
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\bin\Debug\net6.0\AggressionScorerModel.dll
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\bin\Debug\net6.0\ref\AggressionScorerModel.dll
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\bin\Debug\net6.0\AggressionScorerModel.pdb
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.csproj.AssemblyReference.cache
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.AssemblyInfoInputs.cache
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.AssemblyInfo.cs
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.csproj.CoreCompileInputs.cache
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.dll
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\ref\AggressionScorerModel.dll
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\obj\Debug\net6.0\AggressionScorerModel.pdb
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\bin\Debug\net6.0\Model\AggressionScorerModel.zip
+C:\Users\S.A.H.Mirnia\source\repos\AggressionScorer\AggressionScorerModel\bin\Debug\net6.0\Model\AggressionScorerRetranedModel.zip
