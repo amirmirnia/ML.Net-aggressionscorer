@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+}
+div{
+    text-align: center;
+}
+button{
+    border: 0;
+    padding: 1em;
+    font-size: larger;
+    background-color: aqua;
+}
+textarea{
+    border: 1px solid #dbdbdb;
+}
